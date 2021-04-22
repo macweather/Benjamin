@@ -2,9 +2,8 @@
 
 
 
-```
+
 ![](https://www.google.com/photos/about/static/images/google.svg)
-```
 
 - 長年於航空氣象領域的氣象人
 - 2018年取得交通部中央氣象局『從事氣象預報許可證』
