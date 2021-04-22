@@ -1,10 +1,14 @@
 ## 范家誠
 
+```
 
+```
 
 ```
 ![](https://www.google.com/photos/about/static/images/google.svg)
 ```
+
+{"entry":[{"id":"11018646","hash":"48e3e239f27cd5f1945787ce30ecc9c3","requestHash":"macweather","profileUrl":"http:\/\/gravatar.com\/macweather","preferredUsername":"macweather","thumbnailUrl":"http:\/\/2.gravatar.com\/avatar\/48e3e239f27cd5f1945787ce30ecc9c3","photos":[{"value":"http:\/\/2.gravatar.com\/avatar\/48e3e239f27cd5f1945787ce30ecc9c3","type":"thumbnail"},{"value":"http:\/\/0.gravatar.com\/userimage\/11018646\/c3cb391d9b127ee3a6448e15a73b2602"}],"name":{"givenName":"Benjamin","familyName":"Fan","formatted":"Benjamin S. Fan"},"displayName":"\u8303\u5bb6\u8aa0","aboutMe":"\u4ea4\u901a\u90e8\u4e2d\u592e\u6c23\u8c61\u5c40\u6838\u53ef\u5f9e\u4e8b\u6c23\u8c61\u9810\u5831\u8a31\u53ef\u9810\u5831\u54e1","currentLocation":"Tainan,Taiwan","phoneNumbers":[{"type":"mobile","value":"+886972392639"}],"emails":[{"primary":"true","value":"macweather@mac.com"}],"ims":[{"type":"skype","value":"macweather"}],"accounts":[{"domain":"twitter.com","display":"@macweather","url":"http:\/\/twitter.com\/macweather","username":"macweather","verified":"true","shortname":"twitter"}],"urls":[]}]}
 
 - 長年於航空氣象領域的氣象人
 - 2018年取得交通部中央氣象局『從事氣象預報許可證』
