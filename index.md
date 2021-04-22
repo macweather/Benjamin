@@ -1,6 +1,6 @@
 ## 范家誠
 
-![](https://iweather2utw.files.wordpress.com/2019/09/embeddedimage-2.jpg)
+![](https://iweather2utw.files.wordpress.com/2019/09/embeddedimage-2.jpg){:height="50%" width="50%"}
 
 - 長年於航空氣象領域的氣象人
 - 2018年取得交通部中央氣象局『從事氣象預報許可證』
