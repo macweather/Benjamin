@@ -1,4 +1,4 @@
-## 喜歡推坑@@喜歡入坑的氣象人
+## 喜歡挖坑@@入坑的氣象人
 
 ![](https://iweather2utw.files.wordpress.com/2019/09/embeddedimage-2.jpg){:height="50%" width="50%"}
 
